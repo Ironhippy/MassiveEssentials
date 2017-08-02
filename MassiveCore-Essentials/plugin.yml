@@ -1,0 +1,6 @@
+name: MassiveEssentials
+version: 2.13.0-SNAPSHOT
+main: net.graystone.java.essentials.MassiveEssentials
+authors: [Ironhippy]
+depend: [MassiveCore]
+softdepend: [Factions, MassiveChannels, MassiveRaces]
